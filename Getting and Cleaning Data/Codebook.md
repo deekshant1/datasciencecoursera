@@ -37,6 +37,8 @@ It contains recorded features of train data
 This has 7352 rows and 1 column
 This contains train data of activities index labels
 
+# Required Steps
+
 1. Merges the training and the test sets to create one data set.
 - X
 This contains 10299 rows and 561 columns
