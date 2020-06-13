@@ -23,4 +23,4 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 - A tidy data set of the Dataset used.
 
 ### newData.txt
-- Independent tidy data set with the average of each variable for each activity and each subject.
+- Independent tidy data set with the average of each variable for each activity and each subject as required in step 5.
