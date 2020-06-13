@@ -2,7 +2,7 @@
 #### Peer-graded Assignment
 
 ## Dataset used
-- UCI HAR Dataset downloaded through "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
+- UCI HAR Dataset downloaded from "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 
 ## Files Created
 ### Codebook.md
@@ -16,5 +16,8 @@
 #### 4.Appropriately labels the data set with descriptive variable names.
 #### 5.From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-### newData.txt
+### TidyData.txt
 - A tidy data set of the Dataset used.
+
+### newData.txt
+- Independent tidy data set with the average of each variable for each activity and each subject.
