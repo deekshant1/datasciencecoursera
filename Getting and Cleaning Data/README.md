@@ -5,7 +5,7 @@
 - UCI HAR Dataset downloaded through "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
 
 ## Files Created
-### CodeBook.md
+### Codebook.md
 - A code book that describes the variables, the data, and any transformations or work that I performed to clean up the data.
 
 ### run_analysis.R
